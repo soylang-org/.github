@@ -6,7 +6,7 @@ This is an effort for publicly sharing knowledge, documentation, tutorials, and 
 
 ### Objectives
 
-1. Soy - Is a General Purpose self hosted programming Language for interpreted and compiled strategies. We have create an organization to design, implement and support this language.
+1. Soy - Is a General Purpose, self hosted programming language for interpreted and compiled strategies. We have create an organization to design, implement and support this language.
 
 2. The website containing documentation, is a high priority next to finalizing the design of Soy and developing the necessarry tools to make Soy a reliable, self sustained language.
 
