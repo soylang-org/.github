@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to Soy Project 👋
+
 
 <!--
 
@@ -11,4 +12,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Admin: [@jesse-stojan](https://github.com/jesse-stojan)
+----
+* Admin: [@jesse-stojan](https://github.com/jesse-stojan)
+* Discord: [invitation](https://discord.gg/4Kjt3ZE)
