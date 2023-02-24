@@ -1,8 +1,6 @@
-## Welcome to Soy Project 👋
-
+# Soylang Organization
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -13,5 +11,10 @@
 -->
 
 ----
+
 * Admin: [@jesse-stojan](https://github.com/jesse-stojan)
-* Discord: [invitation](https://discord.gg/4Kjt3ZE)
+* Discord: [Join our Discord!](https://discord.gg/EnZs8MKXzS)
+* Website: [soylang.org](https://soylang.org)
+
+`Soylang Project` - The root project with submodules of each related individual sub-projects.
+`Soy` - A general purpose programming language
