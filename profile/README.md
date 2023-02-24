@@ -1,20 +1,23 @@
-# Soylang Organization
+## About us 
 
-<!--
-**Here are some ideas to get you started:**
+Welcome to SoyLang Organization 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is an effort for publicly sharing knowledge, documentation, tutorials, and informational resources for programming languages, tools, and other related materials. We develop open source projects and documentation.
 
-----
+### Objectives
+
+1. Soy - Is a General Purpose self hosted programming Language for interpreted and compiled strategies. We have create an organization to design, implement and support this language.
+
+2. The website containing documentation, is a high priority next to finalizing the design of Soy and developing the necessarry tools to make Soy a reliable, self sustained language.
+
+
+### Contribution
+
+All discussions will be public, on Discord community. We invite you to join us and connect with other developers. Study the code-base an make yourself useful. Claim a role from Admin, make suggestions for improvements and comment over the documentation. We are open for constructive criticism. Enter our server and say hello:
 
 * Admin: [@jesse-stojan](https://github.com/jesse-stojan)
-* Discord: [Join our Discord!](https://discord.gg/EnZs8MKXzS)
-* Website: [soylang.org](https://soylang.org)
+* Discord: [invitation](https://discord.gg/4Kjt3ZE)
+* Homepage: [](https://soylang.org)
 
-`Soylang Project` - The root project with submodules of each related individual sub-projects.
-`Soy` - A general purpose programming language
+---
+Copyrigt (C) 2023 SoyLang Organization
