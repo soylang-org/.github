@@ -17,7 +17,7 @@ All discussions will be public, on Discord community. We invite you to join us a
 
 * Admin: [@jesse-stojan](https://github.com/jesse-stojan)
 * Discord: [invitation](https://discord.gg/4Kjt3ZE)
-* Homepage: [](https://soylang.org)
+* Homepage: [soylang.org](https://soylang.org)
 
 ---
 Copyrigt (C) 2023 SoyLang Organization
