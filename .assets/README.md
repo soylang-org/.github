@@ -1,4 +1,4 @@
-[◉ Soylang Project](../README.md)
+[◉ Soylang Project](../profile/README.md)
 
 <!-- -------------------------- TITLE -------------------------- -->
 # /assets
