@@ -1,5 +1,5 @@
 <center>
-<img src="./../assets/soy-logo.png" alt="Soy" height="128pt">
+<img src="./../assets/soy-logo.png?raw=true" alt="Soy" height="128pt">
 
 <!-- -------------------------- TITLE -------------------------- -->
 # Soylang Project
