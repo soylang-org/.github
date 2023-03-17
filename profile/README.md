@@ -1,15 +1,15 @@
-<span style="display:block; text-align:center;">
+<div align="center">
 <img src="https://github.com/soylang-org/.github/blob/master/assets/soy-logo.png?raw=true" alt="Soy" height="128pt">
 
 <!-- -------------------------- TITLE -------------------------- -->
-# Soylang Project
+<h1 align="center">Soylang Project</h1>
 <!-- ------------------------- SUBTITLE ------------------------ -->
-###### The Soylang Project is meant for knowledge, research, and advancement.
-[soylang.org ↗](https://soylang.org/)
+<h6>The Soylang Project is meant for knowledge, research, and advancement.</h6>
+<a href="https://soylang.org/">soylang.org ↗</a>
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](#license)
 
-</span>
+</div>
 
 > Please note that all documentation is currently only written in American English,
 having support for multiple languages is an important goal which we hope to some day achieve.
