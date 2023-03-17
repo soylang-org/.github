@@ -1,4 +1,4 @@
-<div style="text-align:center !important;">
+<span style="display:block; text-align:center;">
 <img src="https://github.com/soylang-org/.github/blob/master/assets/soy-logo.png?raw=true" alt="Soy" height="128pt">
 
 <!-- -------------------------- TITLE -------------------------- -->
@@ -9,7 +9,7 @@
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](#license)
 
-</div>
+</span>
 
 > Please note that all documentation is currently only written in American English,
 having support for multiple languages is an important goal which we hope to some day achieve.
