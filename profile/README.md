@@ -1,4 +1,4 @@
-<center>
+<div style="text-align:center !important;">
 <img src="https://github.com/soylang-org/.github/blob/master/assets/soy-logo.png?raw=true" alt="Soy" height="128pt">
 
 <!-- -------------------------- TITLE -------------------------- -->
@@ -9,7 +9,7 @@
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](#license)
 
-</center>
+</div>
 
 > Please note that all documentation is currently only written in American English,
 having support for multiple languages is an important goal which we hope to some day achieve.
@@ -26,6 +26,16 @@ having support for multiple languages is an important goal which we hope to some
 * Founder: [@jesse-stojan](https://github.com/jesse-stojan)
 * Discord: [Join the Discord!](https://discord.gg/EnZs8MKXzS)
 * Website: [soylang.org](https://soylang.org)
+
+### Special Thanks to
+- [`Andrew`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/andrewapperley) - For the name `Soy`.
+- [`Axiom`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/suicvne) - Idea for `asm switch { ... }` statement.
+- [`Axiom`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/suicvne) - Idea to split standard libraries (`stdlib`, `stdui`, `stdnet`, etc..).
+- [`eron`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/AaronGlazer), [`shirobon`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/ppxxcc), [`wtetzner`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/wtetzner), [`falco`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/gyrovorbis) - Feedback on arrays with range-for loops, and slices.
+- [`shirobon`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/ppxxcc) - Idea for arithmetic right shift operator `>>>`.
+- [`wtetzner`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/wtetzner) [`thegreatcatadorer`](https://codeberg.org/thegreatcatadorer) - Feedback on `concept` and `using` keywords.
+- [`Kevin Barabash`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/kevinbarabash) - Help with debugging REST API and custom Request Headers for https://soylang.org/.
+- [`fox`![GitHub](https://github.com/soylang-org/.github/blob/master/assets/github.svg?raw=true)](https://github.com/slavfox) - The name `soymilk` for the ***Soy Modifiable Interactive Language Kernel***.
 
 [↑ top](#)
 
